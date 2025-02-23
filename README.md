@@ -1,1 +1,1 @@
-# Recipe-platform
+# EY-Project-P6-2025
